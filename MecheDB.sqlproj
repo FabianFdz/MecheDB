@@ -67,5 +67,13 @@
     <Build Include="dbo\Tables\Orden.sql" />
     <Build Include="dbo\Tables\LineasOrden.sql" />
     <Build Include="dbo\Tables\Feedback.sql" />
+    <Build Include="dbo\Tables\AspNetUserTokens.sql" />
+    <Build Include="dbo\Tables\AspNetUsers.sql" />
+    <Build Include="dbo\Tables\AspNetUserRoles.sql" />
+    <Build Include="dbo\Tables\AspNetUserLogins.sql" />
+    <Build Include="dbo\Tables\AspNetUserClaims.sql" />
+    <Build Include="dbo\Tables\AspNetRoles.sql" />
+    <Build Include="dbo\Tables\AspNetRoleClaims.sql" />
+    <Build Include="dbo\Tables\__EFMigrationsHistory.sql" />
   </ItemGroup>
 </Project>
