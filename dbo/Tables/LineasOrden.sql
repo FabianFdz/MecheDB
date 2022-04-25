@@ -1,5 +1,5 @@
 ﻿CREATE TABLE [dbo].[LineasOrden] (
-    [Id]         INT   NOT NULL,
+    [Id]         INT   NOT NULL     IDENTITY(1,1),
     [IdOrden]    INT   NOT NULL,
     [IdProducto] INT   NOT NULL,
     [Cantidad]   INT   NOT NULL,
